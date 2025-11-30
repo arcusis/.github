@@ -3,6 +3,8 @@
 <div align="center">
 <h1 style="font-size:40px">ברוכים הבאים <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
+
+</div>
 <div>
 <p align="right">
 
@@ -14,4 +16,5 @@
 
 אנחנו מאמינים בחיבור בין טכנולוגיה, יצירתיות וקהילה. בארקוסיס אנחנו עובדים מדי יום כדי להפוך את החזון הזה למציאות — עבור המשתמשים שלנו ועבור הדור הבא של היוצרים והיזמים בישראל ובעולם..
 </p>
+
 </div>
