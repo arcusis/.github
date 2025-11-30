@@ -4,7 +4,7 @@
 <h1 style="font-size:40px">ברוכים הבאים <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <div>
-<p align="center">
+<p align="right">
 
 בארקוסיס אנחנו הופכים רעיונות למוצרים אמיתיים. אנחנו מפתחים טכנולוגיות חכמות ופשוטות לשימוש שמאפשרות ליזמים, עסקים קטנים ומפתחים לבנות מהר יותר, חכם יותר ומקצועי יותר.
 
