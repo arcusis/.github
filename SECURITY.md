@@ -1,12 +1,12 @@
-# Security Policy 🔒
+# Security Policy
 
 ## About Us
 
-We are IMS Network, the most advanced gaming cloud provider in Israel. Our mission is to deliver high-performance, secure, and accessible cloud gaming services. We understand the importance of security in the cloud gaming ecosystem and are committed to protecting our infrastructure, services, and users' data.
+We are Arcusis, a full-service software development company. We turn complex business problems into production-grade software — from AI platforms and enterprise systems to games and digital products. We understand the importance of security across all our products and are committed to protecting our infrastructure, services, and users' data.
 
 ## Reporting a Vulnerability
 
-We encourage responsible disclosure of any security vulnerabilities in our services or infrastructure. If you believe you have discovered a potential security issue, please get in touch with us at security@ims-network.net.
+We encourage responsible disclosure of any security vulnerabilities in our services or infrastructure. If you believe you have discovered a potential security issue, please get in touch with us at security@arcusis.com.
 
 ### What to Include in Your Report
 
@@ -17,7 +17,7 @@ We encourage responsible disclosure of any security vulnerabilities in our servi
 
 ### What to Expect After Reporting
 
-- I'd like to let you know that I'm acknowledging your report within 3 business days.
+- Acknowledgement of your report within 3 business days.
 - An initial assessment of the report and, if applicable, an estimated time frame for addressing the vulnerability.
 - Regular updates on our progress toward resolving the issue.
 - Public recognition of your contribution to our Security Hall of Fame, unless you prefer to remain anonymous.
@@ -28,10 +28,10 @@ Contributors who help us identify and address security vulnerabilities are inval
 
 ## Policy Updates
 
-Our security policy is subject to periodic review and updates to ensure it aligns with best practices and our commitment to security. We'd like to encourage you to review this document regularly.
+Our security policy is subject to periodic review and updates to ensure it aligns with best practices and our commitment to security. We encourage you to review this document regularly.
 
 ## Contact Us
 
-For any questions regarding this policy or the security of our services, please get in touch with us at security@ims-network.net.
+For any questions regarding this policy or the security of our services, please get in touch with us at security@arcusis.com.
 
-Together, we can ensure a safer gaming cloud environment for all. Thank you for your support and cooperation.
+Thank you for your support and cooperation.
