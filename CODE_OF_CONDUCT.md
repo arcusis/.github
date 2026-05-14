@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-IMS-Network is committed to fostering an inclusive environment that welcomes contributors from diverse backgrounds. We aim to create a friendly, safe, and welcoming space for everyone, irrespective of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religious beliefs (or lack thereof). This Code of Conduct outlines our expectations for participant behavior and the steps for reporting unacceptable actions to ensure a positive experience for everyone involved in our community.
+Arcusis is committed to fostering an inclusive environment that welcomes contributors from diverse backgrounds. We aim to create a friendly, safe, and welcoming space for everyone, irrespective of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religious beliefs (or lack thereof). This Code of Conduct outlines our expectations for participant behavior and the steps for reporting unacceptable actions to ensure a positive experience for everyone involved in our community.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
@@ -31,7 +31,7 @@ Unacceptable behaviors include, but are not limited to:
 
 ## 5. Weapons Policy
 
-No weapons are permitted at any IMS-Network events or spaces. This includes firearms, explosives, large knives, and other items intended to cause harm. Possession of such items will result in immediate expulsion and a future ban without the item.
+No weapons are permitted at any Arcusis events or spaces. This includes firearms, explosives, large knives, and other items intended to cause harm. Possession of such items will result in immediate expulsion and a future ban without the item.
 
 ## 6. Consequences of Unacceptable Behavior
 
@@ -41,14 +41,14 @@ Unacceptable behavior from any community member will not be tolerated. Failure t
 
 To report unacceptable behavior or concerns:
 
-- Contact a community organizer at support@ims-network.net.
-- Visit [Reporting guidelines](https://ims-network.org/contact.html) for more details.
+- Contact a community organizer at legal@arcusis.com.
+- Visit [Reporting guidelines](https://arcusis.com/contact) for more details.
 
 Organizers are also prepared to assist with engaging local law enforcement and ensuring those experiencing distress feel safe.
 
 ## 8. Addressing Grievances
 
-If you believe you've been falsely accused of violating this Code of Conduct, please get in touch with IMS-Network with your grievance for consideration according to our governing policies. [Policy](https://legal.ims-network.net)
+If you believe you've been falsely accused of violating this Code of Conduct, please get in touch with Arcusis with your grievance for consideration according to our governing policies. [Policy](https://arcusis.com/legal)
 
 ## We Are Open To Feedback
 
@@ -60,7 +60,7 @@ This Code of Conduct applies to all community participants in every venue, onlin
 
 ## 10. Contact info
 
-For any inquiries or concerns, reach out to us at support@ims-network.net.
+For any inquiries or concerns, reach out to us at legal@arcusis.com.
 
 ## 11. License and attribution
 
