@@ -58,17 +58,17 @@ jobs:
         id: detect
         run: |
           set -euo pipefail
-          ex='-not -path */node_modules/* -not -path */.git/* -not -path */vendor/* -not -path */Pods/*'
-          present() { [ -n "$(eval find . $ex -type f \\( $1 \\) -print -quit)" ]; }
+          # List tracked paths once; classify by extension/marker. No eval/globbing.
+          files="$(git ls-files)"
+          has() { printf '%s\n' "$files" | grep -qiE "$1"; }
 
-          langs=('"actions"') # every repo has workflow files
-          present '-name *.ts -o -name *.tsx -o -name *.js -o -name *.jsx -o -name *.mjs' && langs+=('"javascript-typescript"')
-          present '-name *.py' && langs+=('"python"')
-          present '-name *.kt -o -name *.kts -o -name *.java' && langs+=('"java-kotlin"')
+          langs='"actions"' # every repo has workflow files
+          has '\.(ts|tsx|js|jsx|mjs|cjs)$'      && langs="$langs,\"javascript-typescript\""
+          has '\.py$'                           && langs="$langs,\"python\""
+          has '\.(kt|kts|java)$'                && langs="$langs,\"java-kotlin\""
+          echo "source_langs=[$langs]" >> "$GITHUB_OUTPUT"
 
-          IFS=,; echo "source_langs=[${langs[*]}]" >> "$GITHUB_OUTPUT"; unset IFS
-
-          if [ -n "$(eval find . $ex -type f \( -name *.xcodeproj -o -name *.xcworkspace -o -name project.yml -o -name Package.swift -o -name *.swift \) -print -quit)" ]; then
+          if has '\.swift$|\.xcodeproj(/|$)|\.xcworkspace(/|$)|(^|/)project\.yml$|(^|/)Package\.swift$'; then
             echo "has_swift=true" >> "$GITHUB_OUTPUT"
           else
             echo "has_swift=false" >> "$GITHUB_OUTPUT"
